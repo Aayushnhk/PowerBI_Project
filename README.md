@@ -1,10 +1,13 @@
 ## Snapshots
 
+### Sales Report Dashboard
+![Sales Report Dashboard](./assets/Sales_Report_Dashboard.png)
+
+
 ### IT Expenditure Dashboard
 ![IT Expenditure Dashboard](./assets/IT_Expenditure_Dashboard.png)
 
-### Sales Report Dashboard
-![Sales Report Dashboard](./assets/Sales_Report_Dashboard.mp4)
+
 
 
 *IT Expenditure Dashboard*
